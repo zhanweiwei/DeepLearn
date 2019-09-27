@@ -4,7 +4,7 @@
 @File  : Perceptron.py
 @Author:
 @Date  : 2019-9-26 14:20
-@Desc  : 
+@Desc  : 感知机
 """
 from __future__ import print_function
 from functools import reduce
